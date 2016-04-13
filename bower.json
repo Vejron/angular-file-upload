@@ -1,0 +1,18 @@
+{
+  "name": "angular-file-upload",
+  "main": ["angular-file-upload.js", "angular-file-upload-html5-shim.js"],
+  "description": "",
+  "authors": [
+    "unknown"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
